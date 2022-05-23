@@ -2,3 +2,5 @@
 1) Three std algorithms
 2) Template func + template class "Queue" 
 3) Implementation of interfaces (Circle + Rectangle)
+4) Triangle + FIFO
+5) String analyzer
