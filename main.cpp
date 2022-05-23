@@ -135,7 +135,7 @@ public:
     }
 
     void initFromDialog() override {
-        std::cout << "Input 2 numbers:\nX-coordinate for centre\nY-coordinate for centre\nRepeat 3 times\n";
+        std::cout << "Input 2 numbers:\nX-coordinate for centre\nY-coordinate for centre\nDo it 4 times\n";
         for (int i = 0; i < 4; ++i){
             int x, y;
             std::cin >> x >> y;
