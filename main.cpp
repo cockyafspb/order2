@@ -53,7 +53,7 @@ public:
     Circle(CVector2D point, double r) : centre(point), radius(r) {}
 
     double square() override {
-        return radius * pi * pi;
+        return radius * pi * radius;
     }
 
     double perimeter() override {
